@@ -33,9 +33,10 @@ const Home = () => {
 >
   <div className="home__contact-me">
     <button onClick={handleNavigateToContactMePage}>Hire Me</button>
-    <a href="resumee.pdf" download>
-      <button>Download Resume</button>
-    </a>
+    <a href={process.env.PUBLIC_URL + "/resumee.pdf"} download>
+  <button>Download Resume</button>
+</a>
+
   </div>
 
   <div className="home__social-icons">
