@@ -27,10 +27,6 @@ export const skillsData = [
           skillName: "JAVA",
           percentage: "80",
         },
-        {
-          skillName: "PYTHON",
-          percentage: "90",
-        },
       ],
     },
     {
