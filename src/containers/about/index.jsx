@@ -30,7 +30,7 @@ const personalDetails = [
 
   
   const jobSummary =
-  "Motivated and detail-oriented Front-End Developer with a strong foundation in HTML, CSS, JavaScript, and responsive web design. Proficient in modern frameworks like React and familiar with version control systems like Git. Passionate about creating user-friendly, visually appealing web interfaces and continuously learning emerging technologies. Eager to contribute to collaborative team environments and build meaningful digital experiences.";
+  "Motivated and detail-oriented Front-End Developer with a strong foundation in HTML, CSS, JavaScript,ReactJs and responsive web design. Proficient in modern frameworks like React and familiar with version control systems like Git. Passionate about creating user-friendly, visually appealing web interfaces and continuously learning emerging technologies. Eager to contribute to collaborative team environments and build meaningful digital experiences.";
 
 const About = () => {
   return (
